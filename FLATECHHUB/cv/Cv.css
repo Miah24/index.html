@@ -1,0 +1,22 @@
+div{
+        text-align: center;
+        font-family: Georgia;
+        background-color: burlywood;
+}
+section{
+        background-color:whitesmoke;
+}
+legend{
+        font-size: large;
+        font-family: Georgia;
+        
+
+}
+fieldset{
+        font-size: medium;
+        border: 0px;
+        background-color:burlywood;
+}
+img{
+        margin: 0 0 0 680px;
+}
